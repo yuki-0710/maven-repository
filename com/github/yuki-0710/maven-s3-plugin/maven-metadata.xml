@@ -3,12 +3,13 @@
   <groupId>com.github.yuki-0710</groupId>
   <artifactId>maven-s3-plugin</artifactId>
   <versioning>
-    <release>1.1.1</release>
+    <release>1.1.2</release>
     <versions>
       <version>1.0.0</version>
       <version>1.1.0</version>
       <version>1.1.1</version>
+      <version>1.1.2</version>
     </versions>
-    <lastUpdated>20180823094302</lastUpdated>
+    <lastUpdated>20180824051438</lastUpdated>
   </versioning>
 </metadata>
