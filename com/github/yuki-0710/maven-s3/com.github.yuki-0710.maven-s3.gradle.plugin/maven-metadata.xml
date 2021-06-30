@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.yuki-0710.maven-s3</groupId>
+  <artifactId>com.github.yuki-0710.maven-s3.gradle.plugin</artifactId>
+  <versioning>
+    <latest>2.0.1</latest>
+    <release>2.0.1</release>
+    <versions>
+      <version>2.0.1</version>
+    </versions>
+    <lastUpdated>20210630085347</lastUpdated>
+  </versioning>
+</metadata>
